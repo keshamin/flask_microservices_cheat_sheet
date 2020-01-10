@@ -2,6 +2,20 @@
 
 <br/>
 
+Contents:
+- [Routing](#routing)
+- [Globals per Request Context](#globals-per-request-context-thread-safe)
+- [Helper Functions](#helper-functions)
+- [Response](#response)
+- [Signals](#signals)
+- [Extension and Middlewares](#extension-and-middlewares)
+- [Templates](#templates)
+- [Configuration](#configuration)
+- [Blueprints](#blueprints)
+- [Error Handling](#error-handling)
+
+<br/>
+
 ## Routing
 
 
