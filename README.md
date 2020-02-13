@@ -6,3 +6,4 @@ This is a summary of "Python Microservices Development" book by Tarek Ziade.
 
 Parts:
 1. [Flask Basics](flask_basics.md)
+1. [Testing & Operations](test_n_ops.md)
